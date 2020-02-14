@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  color: #fff;
+  background-color: #5995da; /* Blue */
+  padding: 20px 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 60px;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.about {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  margin: 20px;
+}
+
+p {
+  margin: 50px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  margin: 5px;
+}
